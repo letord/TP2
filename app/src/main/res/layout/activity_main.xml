@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Déterminez votre poids:"
+        android:text="@string/poids"
         android:textColor="#FC0303" />
 
     <EditText
@@ -21,14 +21,14 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Poids" />
+        android:text="@string/PoidsVal" />
 
     <TextView
         android:id="@+id/tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Déterminez votre taille:"
+        android:text="@string/taille"
         android:textColor="#FC0303" />
 
     <EditText
@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Taille" />
+        android:text="@string/tailleValle" />
 
     <RadioGroup
         android:id="@+id/group"
@@ -64,7 +64,7 @@
         android:id="@+id/commentaire"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Appréciation" />
+        android:text="@string/appreciation" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -77,7 +77,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Calculer l'imc" />
+            android:text="@string/CalIMC" />
 
         <Button
             android:id="@+id/reset"
@@ -91,12 +91,12 @@
         android:id="@+id/result"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Résultat :" />
+        android:text="@string/res" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="vous devez cliquer sur le bouton &quot;Calculer l'IMC&quot; pour obtenir un résultat " />
+        android:text="@string/instruction" />
 
 </LinearLayout>

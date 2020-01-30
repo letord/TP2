@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">TP2</string>
-    <string name="poids">déterminez votre poids</string>
-    <string name="taille">déterminez votre taille</string>
+    <string name="poids">Déterminez votre poids</string>
+    <string name="taille">Déterminez votre taille</string>
     <string name="tailleValle">Taille</string>
     <string name="PoidsVal">Poids</string>
+    <string name="appreciation">Appréciation</string>
+    <string name="CalIMC">Calcul l\'IMC</string>
+    <string name="res">Résultat :</string>
+    <string name="instruction">vous devez cliquer sur le bouton \"Calculer l\'IMC\" pour obtenir un résultat</string>
 </resources>

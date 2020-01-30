@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TP2</string>
-    <string name="poids">determine your weight</string>
-    <string name="taille">determine your size</string>
+    <string name="poids">Determine your weight</string>
+    <string name="taille">Determine your size</string>
     <string name="tailleValle">Size</string>
     <string name="PoidsVal">Weight</string>
+    <string name="appreciation">Appreciation</string>
+    <string name="CalIMC">BMI calculation</string>
+    <string name="res">Result :</string>
+    <string name="instruction">you must click on the \"Calculate BMI\" button to obtain a result</string>
 </resources>
