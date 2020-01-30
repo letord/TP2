@@ -3,7 +3,7 @@
     <string name="poids">Déterminez votre poids</string>
     <string name="taille">Déterminez votre taille</string>
     <string name="tailleValle">Taille</string>
-    <string name="PoidsVal">Poids</string>
+    <string name="PoidsARemplir">Poids</string>
     <string name="appreciation">Appréciation</string>
     <string name="CalIMC">Calcul l\'IMC</string>
     <string name="res">Résultat :</string>
