@@ -2,4 +2,6 @@
     <string name="app_name">TP2</string>
     <string name="poids">déterminez votre poids</string>
     <string name="taille">déterminez votre taille</string>
+    <string name="tailleValle">Taille</string>
+    <string name="PoidsVal">Poids</string>
 </resources>
