@@ -8,4 +8,15 @@
     <string name="CalIMC">Calcul l\'IMC</string>
     <string name="res">Résultat :</string>
     <string name="instruction">vous devez cliquer sur le bouton \"Calculer l\'IMC\" pour obtenir un résultat</string>
+    <string name="m">Mètre</string>
+    <string name="cm">Centimètre</string>
+    <string name="Taillebasse">La taille doit être positive</string>
+    <string name="PoidsBas">Le poids doit être positif</string>
+    <string name="VotreIMCest">Votre IMC est :</string>
+    <string name="maigreur">maigreur</string>
+    <string name="normal">corpulence normal</string>
+    <string name="surpoids">surpoids</string>
+    <string name="modéré">obésité modéré</string>
+    <string name="severe">obésité sévère</string>
+    <string name="morbide">obésité morbide ou massive</string>
 </resources>

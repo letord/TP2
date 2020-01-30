@@ -9,4 +9,15 @@
     <string name="CalIMC">BMI calculation</string>
     <string name="res">Result :</string>
     <string name="instruction">you must click on the \"Calculate BMI\" button to obtain a result</string>
+    <string name="m">Meter</string>
+    <string name="cm">Centimeter</string>
+    <string name="Taillebasse">Size must be positive</string>
+    <string name="PoidsBas">Weight must be positive</string>
+    <string name="VotreIMCest">Your BMI is :</string>
+    <string name="maigreur">thinness</string>
+    <string name="normal">normal build</string>
+    <string name="surpoids">overweight</string>
+    <string name="modéré">moderate obesity</string>
+    <string name="severe">severe obesity</string>
+    <string name="morbide">morbid or massive obesity</string>
 </resources>

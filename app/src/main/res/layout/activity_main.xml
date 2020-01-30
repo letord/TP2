@@ -51,13 +51,13 @@
             android:id="@+id/radio_metre"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Mètre" />
+            android:text="@string/m" />
 
         <RadioButton
             android:id="@+id/radio_centimetre"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Centimètre" />
+            android:text="@string/cm" />
     </RadioGroup>
 
     <CheckBox
